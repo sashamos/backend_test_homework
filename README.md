@@ -1,1 +1,2 @@
-# backend_test_homework
+# hw_python_oop
+Sprint 2. Итоговый проект.
